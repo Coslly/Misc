@@ -21,7 +21,7 @@
 //m_vecViewOffset
 0xC48
 //m_entitySpottedState + m_bSpotted
-0x1630 + 0x8
+0x1638
 //m_iShotsFired
 0x1418
 //m_pClippingWeapon
@@ -41,4 +41,4 @@
 //m_vecOrigin
 0x80
 //m_modelState + m_vecOrigin
-0x160 + 0x80;
+0x1E0
