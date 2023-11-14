@@ -1,15 +1,15 @@
-//2023-11-13
+//2023-11-14
 
 //dwLocalPlayerPawn
 0x16B9388
 //dwEntityList
-0x17ADAE0
+0x17ADAF0
 //dwViewAngles
-0x186B0F8
+0x186B108
 //dwViewMatrix
-0x180C0E0
+0x180C100
 //m_hPlayerPawn
-0x7BC
+0x7D4
 //m_iIDEntIndex
 0x153C
 //m_iTeamNum
@@ -37,7 +37,7 @@
 //m_ArmorValue
 0x1508
 //m_iszPlayerName
-0x610
+0x628
 //m_pGameSceneNode
 0x310
 //m_vecOrigin
