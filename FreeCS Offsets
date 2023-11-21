@@ -1,13 +1,13 @@
 //2023-11-18
 
 //dwLocalPlayerPawn
-0x16BC4A8
+0x16BC5B8
 //dwEntityList
-0x17B0CF0
+0x17B5200
 //dwViewAngles
-0x186FFB0
+0x18744C0
 //dwViewMatrix
-0x180F330
+0x1813840
 //m_hPlayerPawn
 0x7EC
 //m_iIDEntIndex
