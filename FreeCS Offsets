@@ -1,4 +1,4 @@
-//2023-12-14
+//2023-12-14 21:30
 
 //dwLocalPlayerPawn
 0x16C8ED8
@@ -11,7 +11,7 @@
 //m_hPlayerPawn
 0x7EC
 //m_iIDEntIndex
-0x153C
+0x1544
 //m_iTeamNum
 0x3BF
 //m_iHealth
@@ -19,23 +19,23 @@
 //m_fFlags
 0x3C8
 //m_aimPunchCache
-0x1738
+0x1740
 //m_vecViewOffset
 0xC48
 //m_entitySpottedState + m_bSpotted
-0x1638
+0x1640
 //m_iShotsFired
-0x1418
+0x1420
 //m_pClippingWeapon
-0x12A8
+0x12B0
 //m_vOldOrigin
 0x1224
 //m_bIsScoped
-0x13A0
+0x13A8
 //m_vecVelocity
 0x3D8
 //m_ArmorValue
-0x1508
+0x1510
 //m_iszPlayerName
 0x640
 //m_pGameSceneNode
