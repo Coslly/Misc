@@ -1,4 +1,4 @@
-//2024-02-08 13:30
+//2024-02-08 14:20
 
 //dwLocalPlayerController
 0x1900918
@@ -50,3 +50,5 @@
 0x110
 //m_unTotalRoundDamageDealt
 0x118
+//m_AttributeManager + m_Item + m_iItemDefinitionIndex
+0x12A2
