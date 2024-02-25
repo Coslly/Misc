@@ -26,7 +26,7 @@
 0x147C
 //m_vecVelocity
 0x3E8
-//m_entitySpottedState + m_bSpottedByMask
+//m_entitySpottedState + m_bSpotted
 0x16A0
 //m_bIsScoped
 0x1400
