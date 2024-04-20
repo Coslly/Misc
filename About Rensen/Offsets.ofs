@@ -1,4 +1,4 @@
-//2024-04-20 13:00
+//2024-04-20 15:30
 
 //dwLocalPlayerController
 0x19115A8
@@ -52,3 +52,5 @@
 0x118
 //m_AttributeManager + m_Item + m_iItemDefinitionIndex
 0x12A2
+//m_angEyeAngles
+0x1578
