@@ -1,15 +1,15 @@
-//2024-06-15 10:11
+//2024-06-22 10:25
 
 //dwLocalPlayerController
 0x1A04768
 //dwLocalPlayerPawn
-0x181A998
+0x181A9B8
 //dwEntityList
 0x19B49B8
 //dwViewAngles
-0x1A235C8
+0x1A23848
 //dwViewMatrix
-0x1A16A70
+0x1A16A60
 //m_hPlayerPawn
 0x7DC
 //m_iHealth
